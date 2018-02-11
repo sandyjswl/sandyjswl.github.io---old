@@ -46,17 +46,17 @@ My **Technical skills** include:
 |GTx: CS1301x		|  [Introduction to Computing using Python](https://courses.edx.org/courses/course-v1:GTx+CS1301x+1T2017/course/)						| Georgia Institute of Technology 					| Completed 				|
 |UCSanDiegoX: DSE200x 	|  [Python for Data Science](https://courses.edx.org/courses/course-v1:UCSanDiegoX+DSE200x+1T2018/course/)							| University of California, San Diego					| Ongoing 				|
 |-			|  [Python for Everybody(Specialization of 5 Courses)](https://www.coursera.org/specializations/python)								| University of Michigan						| Ongoing				|
-|-			|  [Applied Data Science with Python (Specialization of 5 Courses)](https://www.coursera.org/specializations/data-science-python)				| University of Michigan						| Ongoing				|	|
-|-			|  [Data Structures and Algorithms](https://www.coursera.org/specializations/data-structures-algorithms)							| University of California, San Diego & National Research University Higher School of Economics|		|
-|LinuxFoundationX: LFS101x| [Introduction to Linux] (https://www.edx.org/course/introduction-linux-linuxfoundationx-lfs101x-1)								| LinuxFoundation							| Ongoing				|															  		
+|-			|  [Applied Data Science with Python (Specialization of 5 Courses)](https://www.coursera.org/specializations/data-science-python)				| University of Michigan						| Ongoing				|	
+|-			|  [Data Structures and Algorithms](https://www.coursera.org/specializations/data-structures-algorithms)							| University of California, San Diego & National Research University Higher School of Economics|Ongoing		|
+|LinuxFoundationX: LFS101x| [Introduction to Linux](https://www.edx.org/course/introduction-linux-linuxfoundationx-lfs101x-1)								| LinuxFoundation							| Ongoing				|															  		
 
-### Certificates
+# Certificates
 
-- [HarvardX: CS50](https://courses.edx.org/certificates/f3607edebaac49e0b687728fd47b456b)
+- [HarvardX: CS50](https://courses.edx.org/certificates/6a272e5983004a96ba45869d95ce633e)
 - [MITx: 6.00.1x](https://courses.edx.org/certificates/6c40e5a48075457ea7d99fd8775b51cc)
 - [Python for Everybody Specialization](https://www.coursera.org/account/accomplishments/verify/UGP9UQ53QP6J)
 
-### Projects
+# Projects
 
 - [Sentiments](https://sandyjswl.github.io/sentiments/)
 - [Finance](https://sandyjswl.github.io/finance/)
