@@ -8,7 +8,7 @@ My name is Sandeep Prasad Jaiswal, i'm currently pursuing a Bachelor's degree in
 
 My **Technical skills** include:
 
-## Programming
+### Programming
 
 - Python
 - Java
@@ -17,16 +17,16 @@ My **Technical skills** include:
 - SQL
 - Data Structures using C and Python
 
-## Frameworks
+### Frameworks
 
 - Flask web framework for Python
 - Django web framework for Python
 
-## Data Science using Python
-## Postgresql
-## Familiarity with Linux
-## Offered Google India Challenge Scholarship for Android Developer from [Udacity](https://in.udacity.com/)
-## Microsoft 
+### Data Science using Python
+### Postgresql
+### Familiarity with Linux
+### Offered Google India Challenge Scholarship for Android Developer from [Udacity](https://in.udacity.com/)
+### Microsoft 
 
  - Excel
  - Powerpoint
