@@ -4,10 +4,34 @@ title: About me
 subtitle:
 ---
 
-My name is Sandeep Jaiswal.I have the following qualities:
+My name is Sandeep Prasad Jaiswal, i'm currently pursuing a Bachelor's degree in Computer Science and Engineering from [Siliguri Institute of Technology](https://www.sittechno.org/).
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+My Technical skills include
+
+## Programming
+
+- Python
+- Java
+- C++
+- C
+- SQL
+- Data Structures using C and Python
+
+## Frameworks
+
+- Flask web framework for Python
+- Django web framework for Python
+
+## Data Science using Python
+## Postgresql
+## Familiarity with Linux
+
+## Microsoft 
+
+ - Excel
+ - Powerpoint
+ - Word
+
 
 What else do you need?
 
@@ -18,6 +42,21 @@ What else do you need?
 - [GTx: CS1301x](https://courses.edx.org/courses/course-v1:GTx+CS1301x+1T2017/course/)
 - [UCSanDiegoX: DSE200x](https://courses.edx.org/courses/course-v1:UCSanDiegoX+DSE200x+1T2018/course/)
 - [Python for Everybody Specialization](https://www.coursera.org/specializations/python)
+- [Introduction to Linux](https://courses.edx.org/courses/course-v1:LinuxFoundationX+LFS101x+1T2017/course/)
+
+
+### Table
+
+|Course Code 			| Course Name 														| Institute/University 					| Ongoing/Completed |
+| :----					| :------ 															|:--- 									| :--- 				|
+|HarvardX: CS50			|  Introduction to Computer Science									| Harvard University 					| Four 				|
+|MITx: 6.00.1x			|  Introduction to Computer Science and Programming Using python 	| Massachusetts Institute of Technology | Nine 				|
+|GTx: CS1301x			|  Introduction to Computing using Python							| Georgia Institute of Technology 		| Six 				|
+|UCSanDiegoX: DSE200x 	|  Python for Data Science											| University of California, San Diego	| One 				|
+|-						|  Python for Everybody(Specialization of 5 Courses)				| University of Michigan				|					|
+|-						|  Applied Data Science with Python (Specialization of 5 Courses)	| University of Michigan				|					|
+|-						|  Data Structures and Algorithms									| University of California, San Diego & 
+																							  National Research University Higher School of Economics|	|	
 
 ### Certificates
 
