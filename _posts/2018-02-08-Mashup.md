@@ -1,0 +1,68 @@
+---
+layout: post
+title: Mashup
+subtitle: Project
+gh-repo: sandyjswl
+gh-badge: [star, fork, follow]
+tags: [project]
+---
+
+
+Mashup is a website that lets users search for articles atop a map, Using the
+Google Maps API along with the data from Google News. The user can enter a pin code or any location and the top news from the location are displayed as hyperlinks, which when clicked will redirect the user to the website. This is done using the Google news feed. 
+
+Below are the screenshots of different pages included.
+
+**Tools used**
+- Python
+- Flask
+- SQL (To store all the locations along with pin code)
+- Jinja2 (Templating language)
+- phpLiteAdmin (Manage the database)
+- HTML
+- CSS
+- Jquery
+- Google Maps API
+- Google news Feed
+
+
+
+# Screenshots
+
+## Start Page
+
+![Start](https://i.imgur.com/WHnM0ix.png)
+
+The Start page of the web app.
+
+## Enter a location/pin code 
+
+![Location](https://i.imgur.com/GKUmy0i.png)
+
+Shows the user matching locations and suggestions
+
+## Result
+
+![Result](https://imgur.com/gru2uXg)
+
+Displays all the recent headline from the entered location as hyperlinks.
+
+## Redirect
+
+![Redirect](https://imgur.com/rMwmV1R)
+
+Redirect the user to the original website.
+
+## Nearby Locations
+
+![Quote](https://imgur.com/oJAjz0T)
+
+![Quote](https://imgur.com/iok5dQH
+
+
+User can also search for headlines from nearby locations.
+
+
+
+**_More features will be added to the website, i'm currently working on something else._**
+
