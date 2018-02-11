@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Sentiments
-subtitle:
+subtitle: Tweets Analysis
 ---
 
 
@@ -11,11 +11,13 @@ Created a web app which takes as input from the user a Twitter user id and then 
 
 Start Page
 
-![Crepe](https://i.imgur.com/3IYW6i4.png)
+![Start](https://i.imgur.com/3IYW6i4.png)
 
 Enter a twitter username
 
-![Crepe](https://i.imgur.com/HVzhD0H.png)
+![NAMO](https://i.imgur.com/HVzhD0H.png)
 
-![Crepe](https://i.imgur.com/nx8v3TA.png)
+![DT](https://i.imgur.com/nx8v3TA.png)
+
+Displays a pie chart categorizing the last 50 tweets based on Negative, Positive, Neutral.
 
