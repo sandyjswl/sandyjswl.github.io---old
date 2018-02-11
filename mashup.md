@@ -1,7 +1,7 @@
 ---
-layout: post
+layout: page
 title: Mashup
-subtitle: Project
+subtitle: Google news on Maps
 gh-repo: sandyjswl
 gh-badge: [star, fork, follow]
 tags: [project]
