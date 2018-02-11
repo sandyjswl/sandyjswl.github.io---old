@@ -43,21 +43,21 @@ Shows the user matching locations and suggestions
 
 ## Result
 
-![Result](https://imgur.com/gru2uXg)
+![Result](https://i.imgur.com/gru2uXg.png)
 
 Displays all the recent headline from the entered location as hyperlinks.
 
 ## Redirect
 
-![Redirect](https://imgur.com/rMwmV1R)
+![Redirect](https://i.imgur.com/rMwmV1R.png)
 
 Redirect the user to the original website.
 
 ## Nearby Locations
 
-![Quote](https://imgur.com/oJAjz0T)
+![Quote](https://i.imgur.com/oJAjz0T.png)
 
-![Quote](https://imgur.com/iok5dQH
+![Quote](https://i.imgur.com/iok5dQH.png)
 
 
 User can also search for headlines from nearby locations.
