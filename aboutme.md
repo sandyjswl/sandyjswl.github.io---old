@@ -25,7 +25,7 @@ My **Technical skills** include:
 ## Data Science using Python
 ## Postgresql
 ## Familiarity with Linux
-
+## Offered Google India Challenge Scholarship for Android Developer from [Udacity](https://in.udacity.com/)
 ## Microsoft 
 
  - Excel
@@ -58,6 +58,7 @@ My **Technical skills** include:
 
 # Projects
 
-- [Sentiments](https://sandyjswl.github.io/sentiments/)
 - [Finance](https://sandyjswl.github.io/finance/)
 - [Mashup](https://sandyjswl.github.io/mashup/)
+- [Sentiments](https://sandyjswl.github.io/sentiments/)
+
