@@ -41,10 +41,10 @@ My **Technical skills** include:
 
 |Course Code 		| Course Name 																			| Institute/University 							| Ongoing/Completed 			|
 | :----			| :------ 																			|:--- 									| :--- 					|
-|HarvardX: CS50		|  [Introduction to Computer Science](https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/course/)							| Harvard University 							| Completed 				|
-|MITx: 6.00.1x		|  [Introduction to Computer Science and Programming Using python](https://courses.edx.org/courses/course-v1:MITx+6.00.1x+2T2017_2/course/) 			| Massachusetts Institute of Technology 				| Completed 				|
-|GTx: CS1301x		|  [Introduction to Computing using Python](https://courses.edx.org/courses/course-v1:GTx+CS1301x+1T2017/course/)						| Georgia Institute of Technology 					| Completed 				|
-|UCSanDiegoX: DSE200x 	|  [Python for Data Science](https://courses.edx.org/courses/course-v1:UCSanDiegoX+DSE200x+1T2018/course/)							| University of California, San Diego					| Ongoing 				|
+|HarvardX: CS50		|  [Introduction to Computer Science](https://www.edx.org/course/cs50s-introduction-computer-science-harvardx-cs50x)							| Harvard University 							| Completed 				|
+|MITx: 6.00.1x		|  [Introduction to Computer Science and Programming Using python](https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-11) 			| Massachusetts Institute of Technology 				| Completed 				|
+|GTx: CS1301x		|  [Introduction to Computing using Python](https://www.edx.org/course/introduction-computing-using-python-gtx-cs1301x)						| Georgia Institute of Technology 					| Completed 				|
+|UCSanDiegoX: DSE200x 	|  [Python for Data Science](https://www.edx.org/course/python-for-data-science)							| University of California, San Diego					| Ongoing 				|
 |-			|  [Python for Everybody(Specialization of 5 Courses)](https://www.coursera.org/specializations/python)								| University of Michigan						| Ongoing				|
 |-			|  [Applied Data Science with Python (Specialization of 5 Courses)](https://www.coursera.org/specializations/data-science-python)				| University of Michigan						| Ongoing				|	
 |-			|  [Data Structures and Algorithms](https://www.coursera.org/specializations/data-structures-algorithms)							| University of California, San Diego & National Research University Higher School of Economics|Ongoing		|
