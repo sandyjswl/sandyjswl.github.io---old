@@ -22,3 +22,5 @@ Enter a twitter username
 
 ![Modi](https://i.imgur.com/nx8v3TA.png)
 
+Displays a pie chart categorizing the last 50 tweets based on Negative, Positive, Neutral. 
+
