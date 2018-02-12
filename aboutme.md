@@ -6,6 +6,18 @@ subtitle:
 
 My name is Sandeep Prasad Jaiswal, i'm currently pursuing a Bachelor's degree in Computer Science and Engineering from [Siliguri Institute of Technology](https://www.sittechno.org/).
 
+# Projects
+
+- [Finance](https://sandyjswl.github.io/finance/)
+- [Mashup](https://sandyjswl.github.io/mashup/)
+- [Sentiments](https://sandyjswl.github.io/sentiments/)
+
+# Certificates
+
+- [HarvardX: CS50](https://courses.edx.org/certificates/6a272e5983004a96ba45869d95ce633e)
+- [MITx: 6.00.1x](https://courses.edx.org/certificates/6c40e5a48075457ea7d99fd8775b51cc)
+- [Python for Everybody Specialization](https://www.coursera.org/account/accomplishments/verify/UGP9UQ53QP6J)
+
 My **Technical skills** include:
 
 ### Programming
@@ -50,15 +62,12 @@ My **Technical skills** include:
 |-			|  [Data Structures and Algorithms](https://www.coursera.org/specializations/data-structures-algorithms)							| University of California, San Diego & National Research University Higher School of Economics|Ongoing		|
 |LinuxFoundationX: LFS101x| [Introduction to Linux](https://www.edx.org/course/introduction-linux-linuxfoundationx-lfs101x-1)								| LinuxFoundation							| Ongoing				|															  		
 
-# Certificates
 
-- [HarvardX: CS50](https://courses.edx.org/certificates/6a272e5983004a96ba45869d95ce633e)
-- [MITx: 6.00.1x](https://courses.edx.org/certificates/6c40e5a48075457ea7d99fd8775b51cc)
-- [Python for Everybody Specialization](https://www.coursera.org/account/accomplishments/verify/UGP9UQ53QP6J)
+# Educations
+| Years   | Degree                 | Subject          | Institute                                                     | Grade |
+| :-----  | :------                | :------          | :------                                                       | :--   |
+2015-2019 | Bachelor of Technology | Computer Science | [Siliguri Institute of Technology](https://www.sittechno.org/)|8.04 (Till 6th Sem)|
+2012-2014 | Higher Secondary       | Science          | [International School, Patna](http://ispatnacbse.co.in/)      | 69.6% |
 
-# Projects
 
-- [Finance](https://sandyjswl.github.io/finance/)
-- [Mashup](https://sandyjswl.github.io/mashup/)
-- [Sentiments](https://sandyjswl.github.io/sentiments/)
 
