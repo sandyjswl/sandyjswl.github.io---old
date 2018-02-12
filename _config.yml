@@ -27,7 +27,7 @@ navbar-links:
   Projects:
     - Finance: "finance"
     - Mashup: "mashup"
-    - Copycat:"copycat"
+    - Copycat: "copycat"
     - Sentiments: "sentiments"
     
     
