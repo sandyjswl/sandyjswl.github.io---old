@@ -64,10 +64,11 @@ My **Technical skills** include:
 
 
 # Educations
+
 | Years   | Degree                 | Subject          | Institute                                                     | Grade |
 | :-----  | :------                | :------          | :------                                                       | :--   |
-2015-2019 | Bachelor of Technology | Computer Science | [Siliguri Institute of Technology](https://www.sittechno.org/)|8.04 (Till 6th Sem)|
-2012-2014 | Higher Secondary       | Science          | [International School, Patna](http://ispatnacbse.co.in/)      | 69.6% |
+|2015-2019 | Bachelor of Technology | Computer Science | [Siliguri Institute of Technology](https://www.sittechno.org/)|8.04 (Till 6th Sem)  |
+|2012-2014 | Higher Secondary       | Science          | [International School, Patna](http://ispatnacbse.co.in/)      | 69.6% |
 
 
 
