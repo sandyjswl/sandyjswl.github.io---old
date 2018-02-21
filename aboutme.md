@@ -14,9 +14,10 @@ My name is Sandeep Prasad Jaiswal, i'm currently pursuing a Bachelor's degree in
 
 # Certificates
 
-- [HarvardX: CS50](https://courses.edx.org/certificates/6a272e5983004a96ba45869d95ce633e)
+- [HarvardX: CS50](https://courses.edx.org/certificates/3abc6397ac9e4e2291a1eae0dd7b0d29)
 - [MITx: 6.00.1x](https://courses.edx.org/certificates/6c40e5a48075457ea7d99fd8775b51cc)
-- [Python for Everybody Specialization](https://www.coursera.org/account/accomplishments/verify/UGP9UQ53QP6J)
+- [Python for Everybody Specialization - Michigan University](https://www.coursera.org/account/accomplishments/verify/UGP9UQ53QP6J)
+- [Data Structures - University of California, San Diego & National Research University Higher School of Economics](https://www.coursera.org/account/accomplishments/certificate/HK4JBD7BARUE)
 
 My **Technical skills** include:
 
